@@ -5,7 +5,7 @@ function App() {
  
   return (
     <>
-     <h1>pokedex - pikschu </h1>
+     <h1>pokedex - charmander </h1>
      <h2>Welcome to my pokedex </h2>
      <p>here you can find information for your pokemons </p>
      <img src="" alt="" />
